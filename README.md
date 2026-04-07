@@ -1,4 +1,7 @@
 # Reddit-Revealed-A-Mental-Health-Analysis
+
+Link to the dataset: https://www.kaggle.com/datasets/entenam/reddit-mental-health-dataset
+
 The global burden of mental health disorders is substantial and growing. According to the World Health Organization (2022), depression affects over 280 million people worldwide, while anxiety disorders impact a further 301 million. Despite this prevalence, a significant gap persists between the need for mental health support and access to appropriate services, particularly in low- and middle-income contexts (Vikram Patel et al., 2018). A critical barrier to narrowing this gap lies in understanding, at scale, how individuals conceptualise and articulate their mental health experiences.
 
 Online communities have emerged as important spaces for mental health self-disclosure and peer support. Social media platforms provide a rich, unstructured data source that captures lived experience in near real time. Among these, Reddit stands out due to its pseudonymous posting culture and highly active mental health communities, including subreddits such as r/depression, r/Anxiety, r/SuicideWatch, r/mentalhealth, and r/lonely. These communities collectively attract millions of users who discuss experiences ranging from acute crises and suicidality to everyday coping strategies. Unlike traditional survey data, such posts are self-initiated, unprompted, and temporally stamped, making them especially valuable for identifying not only what users express, but also when they may be most vulnerable.
